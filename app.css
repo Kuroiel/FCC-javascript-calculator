@@ -1,0 +1,19 @@
+button {
+	text-align: center;
+}
+body {
+  text-align:center;
+}
+#clear {
+	width: 180px;
+	height: 70px;
+	font-size: 25px;
+}
+.numberButton {
+	width: 60px;
+	height: 30px;
+	font-size: 17px;
+}
+#display {
+	font-size: 20px;
+}
